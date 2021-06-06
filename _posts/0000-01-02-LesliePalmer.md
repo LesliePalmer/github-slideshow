@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Never turn your back on a blender" - me
 Use the left arrow to go back!
